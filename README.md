@@ -295,7 +295,7 @@ End Sub
 ## Results
 ### *Stock Performance*
 
-![Stock-Performance-2017] (Resources/Stock-Performance-2017.png)
+![Stock-Performance-2017](Resources/Stock-Performance-2017.png)
 ![Stock-Performance-2018](Resources/Stock-Performance-2018.png)
 
 In 2017, DQ had a total volume of 35,796,200 and a return of almost 200%. However, DQ’s return dropped about 63% in 2018 and their total volume was 107,873,900. Most green energy stocks had positive returns in 2017 and negative returns in 2018. Though, two stocks, ENPH and RUN, show positive returns in both years. ENPH increased by almost 130% in 2017 and 82% in 2018; total volume additionally increased from 221,772,100 in 2017 to 607,473,500 in 2018. RUN increased by 5.5% in 2017 and 84.0% in 2018; total volume increased from 267,681,300 in 2017 to 502,757,100 in 2018.
@@ -307,6 +307,7 @@ Original Script:
 ![Original_Time_2018](Resources/Original_Time_2018.png)
 
 Refactored Script:
+
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
