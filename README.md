@@ -4,6 +4,11 @@
 ### *Purpose*
 My friend Steve’s parents were interested in investing in DAQO New Energy Corporation but had not done any research on the company. Steve had asked me to help him analyze this stock, as well as 11 other green energy stocks in 2018 based on total volume and yearly return to provide an informative opinion to his parents. Now, Steve would like to expand the dataset to include the entire stock market over the last few years to conduct more research. As such, I will refactor my prior code so that it can loop through thousands of stocks while still running in a short amount of time. 
 
+## Resources
+Data Source: VBA_Challenge.xlsm, green_stocks.xlsm
+
+Software: Microsoft Excel 16.48, VBA
+
 ## Refactoring
 I was provided with a partial code to refactor based on my previous analyses. The code was as follows: 
 ```
